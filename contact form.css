@@ -1,0 +1,28 @@
+.ire{
+    margin-top: 100px;
+    background: #efefef;
+    max-width: 77%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 20px;
+    padding-bottom: 20px;
+    height: 200px;
+}
+.contactform{
+    margin-top: 20px;
+    background: #efefef;
+    max-width: 77%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 20px;
+    padding-bottom: 20px;
+    height: 200px;
+}
+label{
+    font-size: 15px;
+    margin-right: 5px;
+}
+input{
+    width: 65%;
+    margin-bottom: 10px;
+}
