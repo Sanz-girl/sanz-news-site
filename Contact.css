@@ -133,7 +133,7 @@ body{
 
     }
     .ire:hover{
-        background-color: blanchedalmond;
+        background-color: antiquewhite;
         transition: 0.5px;
     }
     .sub{
@@ -156,7 +156,7 @@ body{
         padding-bottom: 20px;
     }
     .Picture{
-        background-color: grey;
+        background-color: whitesmoke;
         width: 600px;
     }
     footer{
